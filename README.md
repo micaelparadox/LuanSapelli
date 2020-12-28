@@ -18,4 +18,4 @@
 - 🌎 From Blumenau-SC.
 - 🎓 Studying Information System.
 - 🚀 Stack: Golang, Python.
-- 📚 Improving skills in Microservices, Software Architecture.
+- 📚 Improving skills in Microservices and Software Architecture.
