@@ -24,8 +24,7 @@
 
 **Application and Data**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/></code>
-![Python Icon](https://cdn.iconscout.com/icon/free/png-32/python-2-226051.png)
+<img height="32" src=”https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png” alt="python">
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="mongodb"/></code>
 
 **Utilities**
