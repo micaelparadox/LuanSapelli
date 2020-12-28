@@ -23,14 +23,17 @@
 ## My Development Stack
 
 **Application and Data**
-
-<img height="32" src=”https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png” alt="python">
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="mongodb"/></code>
+<p>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/go-77-1175166.png" alt="golang"/>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2752092-2284909.png" alt="python"/>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="mongodb"/>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+</p>
 
 **Utilities**
-
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
+<p>
+<img height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
+</p>
 
 **DevOps**
 
