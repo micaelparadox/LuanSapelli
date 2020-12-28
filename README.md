@@ -25,7 +25,7 @@
 **Application and Data**
 <p>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/go-77-1175166.png" alt="golang"/>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2752092-2284909.png" alt="python"/>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="mongodb"/>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
 </p>
