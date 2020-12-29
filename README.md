@@ -46,7 +46,7 @@
 **Business Tools**
 <p>
 <img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"/></code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/confluence-1693602-1442643.png" alt="confluence"/></code>
+<img height="32" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" alt="confluence"/></code>
 </p>
 
 <br/>
