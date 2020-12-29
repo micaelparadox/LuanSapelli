@@ -17,10 +17,9 @@
 
 - 🌎 From Blumenau-SC.
 - 🎓 Studying Information System.
-- 🚀 Stack: Golang, Python.
 - 📚 Improving skills in Microservices and Software Architecture.
 
-## My Development Stack
+## My Development Stack 🚀
 
 **Application and Data**
 <p>
@@ -36,6 +35,11 @@
 </p>
 
 **DevOps**
+<p>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
+<img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
+</p>
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
