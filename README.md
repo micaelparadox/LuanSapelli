@@ -17,6 +17,7 @@
 
 - 🌎 From Blumenau-SC.
 - 🎓 Studying Information System.
+- 👨🏼‍💻 Passionate about technology.  
 - 📚 Improving skills in Microservices and Software Architecture.
 
 ## My Development Stack 🚀
@@ -45,6 +46,7 @@
 **Business Tools**
 <p>
 <img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"/></code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/confluence-1693602-1442643.png" alt="confluence"/></code>
 </p>
 
 <br/>
