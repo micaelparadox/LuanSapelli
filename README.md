@@ -20,7 +20,7 @@
 - 👨🏼‍💻 Passionate about technology.  
 - 📚 Improving skills in Microservices and Software Architecture.
 
-<br/>
+
 
 ## My Development Stack 🚀
 
@@ -54,5 +54,3 @@
 <img title="Confluence" height="32" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" alt="confluence"/></code>
 <img title="Bitbucket" height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
 </p>
-
-<br/>
