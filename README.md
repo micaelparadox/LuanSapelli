@@ -39,19 +39,12 @@
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
 <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="github"/>
 </p>
 
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="Bitbucket"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
-<code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
-
 **Business Tools**
-
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
-<code><img height="32" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+<p>
+<img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"/></code>
+</p>
 
 <br/>
