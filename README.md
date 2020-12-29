@@ -20,6 +20,7 @@
 - 👨🏼‍💻 Passionate about technology.  
 - 📚 Improving skills in Microservices and Software Architecture.
 
+
 ## My Development Stack 🚀
 
 **Application and Data**
