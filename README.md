@@ -17,7 +17,7 @@
 
 - 🌎 From Blumenau-SC.
 - 🎓 Studying Information System.
--  👨🏼‍💻  Passionate about technology.
+- 👾 Passionate about technology.
 - 📚 Improving skills in Microservices and Software Architecture.
 
 <br/>
