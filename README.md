@@ -6,9 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luansapelli@gmail.com)](mailto:luansapelli@gmail.com)
 
 <p>
-  I'm Luan, a Back-End Engineer based in 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil</b>.
+  I'm Luan, a Back-End Engineer based in Brazil.
 </p>
 
 <br/>
@@ -16,7 +14,7 @@
 - 🌎 From Blumenau-SC.
 - 🎓 Studying Information System.
 - 👾 Passionate about technology.
-- 📚 Improving skills in Go, Microservices and Software Architecture.
+- 📚 Improving skills in Golang and Software Architecture.
 
 <br/>
 
