@@ -16,7 +16,7 @@
 - 🌎 From Blumenau-SC.
 - 🎓 Studying Information System.
 - 👾 Passionate about technology.
-- 📚 Improving skills in Go, Rust, Microservices and Software Architecture.
+- 📚 Improving skills in Go, Microservices and Software Architecture.
 
 <br/>
 
