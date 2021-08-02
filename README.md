@@ -18,7 +18,7 @@
 
 <br/>
 
-## My Development Stack 🚀
+## My Development Stack 🧙🏽‍♂️
 
 **Application and Data**
 <p>
