@@ -8,5 +8,5 @@
 Hi there, i'm Luan, a software engineer at [Serasa](https://www.linkedin.com/company/serasa)
 
 - 🌎 From Blumenau, Brazil.
-- 🧙‍♂️ Passionate about everything related to technology and high performance microservices.
+- 🧙‍♂️ Passionate about everything related to technology and high performance applications.
 - 🚀 Always improving skills in Golang and Software Architecture.
